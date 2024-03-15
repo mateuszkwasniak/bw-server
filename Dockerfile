@@ -8,3 +8,4 @@ RUN npm run build
 EXPOSE 3010
 CMD ["node", "src/index.js"]
 
+ 
